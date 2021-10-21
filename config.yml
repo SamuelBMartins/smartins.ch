@@ -24,7 +24,7 @@ params:
         Title: Hi there,
         Content: >
           Welcome to my personal website. 
-          Here you can find notes about things that i'm studying and other stuff.
+          Here you can find notes about things I'm studying and other stuff.
     socialIcons:
       - name: github
         url: "https://github.com/SamuelBMartins"
