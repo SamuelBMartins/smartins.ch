@@ -32,4 +32,3 @@ jobs:
           username: wx3s7_samuel
           password: ${{ secrets.ftp_password }}
           local-dir: ./public/
-          dangerous-clean-slate: true
