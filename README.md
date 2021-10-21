@@ -1,3 +1,3 @@
-[<img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=0077b6">](https://github.com/SamKirkland/FTP-Deploy-Action)
-# smartins.ch
+# smartins.ch ![site up](https://img.shields.io/website-up-down-green-red/http/smartins.ch.svg) ![Size](https://github-size-badge.herokuapp.com/SamuelBMartins/smartins.ch.svg) ![example workflow](https://github.com/SamuelBMartins/smartins.ch/actions/workflows/deploy.yml/badge.svg)
+
 Personal Website made with the static site generator Hugo
