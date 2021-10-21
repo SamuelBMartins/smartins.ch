@@ -32,6 +32,8 @@ params:
       URL: "https://github.com/SamuelBMartins/smartins.ch/tree/master/content"
       Text: "Suggest Changes"
       appendFilePath: true
+    assets:
+      favicon32x32: "favicon.gif"
 
 taxonomies:
     category: categories
