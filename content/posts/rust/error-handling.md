@@ -10,7 +10,6 @@ categories: [programming]
 ---
 
 
-## Error handling in Rust
 Errors are managed by the type:
 ```rust
 enum Result<T, E> {
