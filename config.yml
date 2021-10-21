@@ -2,3 +2,37 @@ baseURL: http://smartins.ch/
 languageCode: en-us
 title: Samuel Martins
 theme: "PaperMod"
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+
+params:
+    homeInfoParams:
+        Title: Hi there,
+        Content: >
+          Welcome to my personal website. 
+          Here you can find notes about things that i'm studying and other stuff.
+    socialIcons:
+      - name: github
+        url: "https://github.com/SamuelBMartins"
+    editPost:
+      URL: "https://github.com/SamuelBMartins/smartins.ch/tree/master/content"
+      Text: "Suggest Changes"
+      appendFilePath: true
+
+taxonomies:
+    category: categories
+    tag: tags
