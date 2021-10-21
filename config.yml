@@ -19,6 +19,11 @@ languages:
                   url: categories/
                   weight: 10
 
+outputs:
+    home:
+        - HTML
+        - RSS
+
 params:
     homeInfoParams:
         Title: Hi there,
@@ -28,6 +33,8 @@ params:
     socialIcons:
       - name: github
         url: "https://github.com/SamuelBMartins"
+      - name: RSS
+        url: "index.xml"
     editPost:
       URL: "https://github.com/SamuelBMartins/smartins.ch/tree/master/content"
       Text: "Suggest Changes"
