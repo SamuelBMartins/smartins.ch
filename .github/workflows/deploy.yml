@@ -1,4 +1,4 @@
-name: 🚀 Deploy
+name: Deploy to smartins.ch
 
 on:
   push:
