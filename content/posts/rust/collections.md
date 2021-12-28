@@ -1,7 +1,7 @@
 ---
 title: "Collections in Rust"
 date: 2021-10-22T15:15:56+02:00
-draft: true
+draft: false
 author: 'Samuel Martins'
 ShowCodeCopyButtons: true
 ShowBreadCrumbs: true
